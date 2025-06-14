@@ -34,4 +34,4 @@ The project is intended to support environmental researchers, policymakers, and 
 
 Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out:
-📧 amankumarsharma.mks@gmail.com
+aamansharma027@gmail.com
